@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">TestBroadcastReciever</string>
+    <string name="app_name">Video call app</string>
+    <string name="empty_contact_list">No contact information available</string>
+
+    <string-array name="testEntries">
+        <item>Select a local file</item>
+        <item>Select from video gallery</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
